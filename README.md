@@ -1,6 +1,6 @@
 # getarchive
 Quick utility to download MP3s from an Archive.org RSS feed.
-I needed a quick utility to download a series of MP3s of a podcast from Archive.org. This is somewhat of a janky solution but it works quite well.
+I needed a quick utility to download a series of MP3s of a podcast from Archive.org. This is somewhat of a messy solution but it works quite well.
 
 # Usage
 ## With episode count
